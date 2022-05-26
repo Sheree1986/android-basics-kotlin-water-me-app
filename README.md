@@ -1,4 +1,4 @@
-Water Me - Starter Code
+Water Me - Sheree Edmund
 ==================================
 
 Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs

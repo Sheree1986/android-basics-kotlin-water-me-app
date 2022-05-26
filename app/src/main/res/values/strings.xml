@@ -16,7 +16,29 @@
 <resources>
     <string name="app_name">Water Me</string>
     <string name="schedule">Water %s</string>
-    <string name="channel_name">water_channel</string>
-    <string name="channel_description">water_reminder</string>
+    <string name="channel_name" translatable="false">water_channel</string>
+    <string name="channel_description" translatable="false">water_reminder</string>
     <string name="water_reminder">Remind me to water in…</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <string name="app_logo">App Logo</string>
+    <string name="edit_plant">Edit Plant Information</string>
+    <string name="add_plant">Add Plant Data</string>
+    <string name="plant_name">Plant Name</string>
+    <string name="plant_type">Plant Type</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="plant_schedule">Watering Plant Schedule</string>
+    <string name="delete_plant">Delete Plant</string>
+    <string name="plant_description">Plant Description</string>
+    <string name="done">Done</string>
+    <string name="home">Home</string>
+    <string name="insert">Insert a Plant</string>
+    <string name="update">Update %s</string>
+    <string name="delete">Are you sure to delete %s</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="must_fill">Mustn\'t Empty</string>
 </resources>

@@ -15,11 +15,13 @@
   ~ limitations under the License.
   -->
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
+    <color name="tosca_primary">#72ccc5</color>
+    <color name="tosca_light">#a5fff8</color>
+    <color name="tosca_dark">#3e9b95</color>
+    <color name="green_primary">#66bf00</color>
+    <color name="green_light">#9bf249</color>
+    <color name="green_dark">#2d8e00</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
 </resources>
